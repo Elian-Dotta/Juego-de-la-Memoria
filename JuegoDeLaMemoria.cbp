@@ -49,78 +49,83 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="TDAvectorGen.c">
+		<Unit filename="src/TDAvectorGen.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="TDAvectorGen.h" />
-		<Unit filename="button.c">
+		<Unit filename="src/TDAvectorGen.h" />
+		<Unit filename="src/button.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="button.h" />
-		<Unit filename="cargar_recursos.c">
+		<Unit filename="src/button.h" />
+		<Unit filename="src/cargar_recursos.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="cargar_recursos.h" />
-		<Unit filename="carta.c">
+		<Unit filename="src/cargar_recursos.h" />
+		<Unit filename="src/carta.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="carta.h" />
-		<Unit filename="config.c">
+		<Unit filename="src/carta.h" />
+		<Unit filename="src/config.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="config.h" />
-		<Unit filename="errores.c">
+		<Unit filename="src/config.h" />
+		<Unit filename="src/config.txt" />
+		<Unit filename="src/errores.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="errores.h" />
-		<Unit filename="estado.h" />
-		<Unit filename="gameplay.c">
+		<Unit filename="src/errores.h" />
+		<Unit filename="src/estado.h" />
+		<Unit filename="src/gameplay.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="gameplay.h" />
-		<Unit filename="graficos.c">
+		<Unit filename="src/gameplay.h" />
+		<Unit filename="src/graficos.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="graficos.h" />
-		<Unit filename="hud.c">
+		<Unit filename="src/graficos.h" />
+		<Unit filename="src/hud.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="hud.h" />
-		<Unit filename="imagenes.c">
+		<Unit filename="src/hud.h" />
+		<Unit filename="src/imagenes.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="imagenes.h" />
-		<Unit filename="inputTxt.c">
+		<Unit filename="src/imagenes.h" />
+		<Unit filename="src/inputTxt.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="inputTxt.h" />
-		<Unit filename="juego.c">
+		<Unit filename="src/inputTxt.h" />
+		<Unit filename="src/juego.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="juego.h" />
-		<Unit filename="jugador.c">
+		<Unit filename="src/juego.h" />
+		<Unit filename="src/jugador.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="jugador.h" />
-		<Unit filename="main.c">
+		<Unit filename="src/jugador.h" />
+		<Unit filename="src/main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="menu.c">
+		<Unit filename="src/menu.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="menu.h" />
-		<Unit filename="opciones.c">
+		<Unit filename="src/menu.h" />
+		<Unit filename="src/opciones.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="opciones.h" />
-		<Unit filename="sonidos.c">
+		<Unit filename="src/opciones.h" />
+		<Unit filename="src/sets.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="sonidos.h" />
-		<Unit filename="texto.c">
+		<Unit filename="src/sets.h" />
+		<Unit filename="src/sonidos.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="texto.h" />
+		<Unit filename="src/sonidos.h" />
+		<Unit filename="src/texto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/texto.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
