@@ -1,0 +1,3273 @@
+# depslib dependency file v1.0
+1770785859 source:d:\pendrive\programacion\proyectos topicos\juegodelamemoria\errores.c
+	"errores.h"
+
+1771105609 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\errores.h
+
+1770692521 source:d:\pendrive\programacion\proyectos topicos\juegodelamemoria\estado.c
+	"estado.h"
+
+1770957054 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\estado.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+
+1770245398 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245405 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"close_code.h"
+
+1770245399 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_wingdk.h"
+	"SDL_config_xbox.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_os2.h"
+	"SDL_config_emscripten.h"
+	"SDL_config_ngage.h"
+	"SDL_config_minimal.h"
+
+1770245404 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1770245408 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1770245408 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1770245400 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_windows.h
+	"SDL_platform.h"
+	<winsdkver.h>
+	<sdkddkver.h>
+
+1770245400 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1770245400 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_wingdk.h
+	"SDL_platform.h"
+
+1770245400 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_xbox.h
+	"SDL_platform.h"
+
+1770245399 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1770245399 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1770245399 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1770245400 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_os2.h
+	"SDL_platform.h"
+
+1770245399 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_emscripten.h
+	"SDL_platform.h"
+
+1770245399 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_ngage.h
+	"SDL_platform.h"
+
+1770245399 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1770245398 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1770245398 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1770245398 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245400 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<sys/byteorder.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1770245403 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245407 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1770245405 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245399 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245400 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245407 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245404 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245404 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245405 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245399 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1770245405 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1770245403 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245405 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245404 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1770245401 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245407 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245404 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245404 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245405 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245405 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245407 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245407 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245517 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2_mixer-2.8.1\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245522 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2_ttf-2.24.0\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771183220 source:d:\pendrive\programacion\proyectos topicos\juegodelamemoria\gameplay.c
+	"gameplay.h"
+	<stdlib.h>
+	<time.h>
+	"juego.h"
+	"graficos.h"
+	"menu.h"
+
+1770959460 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\gameplay.h
+	"estado.h"
+
+1771182998 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\juego.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	"config.h"
+	"errores.h"
+	"estado.h"
+	"stats.h"
+	"texto.h"
+	"hud.h"
+	"estado.h"
+	"imagenes.h"
+	"button.h"
+	"carta.h"
+
+1770769399 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\imagenes.h
+	<stdint.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1770861963 source:d:\pendrive\programacion\proyectos topicos\juegodelamemoria\graficos.c
+	"graficos.h"
+	"stdio.h"
+	<stdlib.h>
+	"config.h"
+
+1770795306 source:d:\pendrive\programacion\proyectos topicos\juegodelamemoria\imagenes.c
+	"imagenes.h"
+	<stdio.h>
+
+1771183716 source:d:\pendrive\programacion\proyectos topicos\juegodelamemoria\juego.c
+	"juego.h"
+	"imagenes.h"
+	"graficos.h"
+	"menu.h"
+	"gameplay.h"
+	"button.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1770864436 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\graficos.h
+	<SDL2/SDL.h>
+	"config.h"
+
+1770957076 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\menu.h
+	"estado.h"
+
+1771105809 source:d:\pendrive\programacion\proyectos topicos\juegodelamemoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"juego.h"
+	"errores.h"
+
+1771108628 source:d:\pendrive\programacion\proyectos topicos\juegodelamemoria\menu.c
+	"menu.h"
+	"juego.h"
+	"graficos.h"
+	"gameplay.h"
+	"button.h"
+
+1770862609 source:d:\pendrive\programacion\proyectos topicos\juegodelamemoria\texto.c
+	"texto.h"
+	<stdio.h>
+
+1771107756 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\config.h
+	"errores.h"
+	"lib/TDAVector_Generico/TDAvectorGen.h"
+
+1770245503 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2_image-2.8.8\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770952433 source:d:\pendrive\programacion\proyectos topicos\juegodelamemoria\config.c
+	"config.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1770587374 d:\pendrive\programacion\proyectos topicos\vector\vector.h
+	"../Def_ERR/Def_ERR.h"
+
+1770582078 d:\pendrive\programacion\proyectos topicos\def_err\def_err.h
+	<stdio.h>
+
+1770788164 source:d:\pendrive\programacion\proyectos topicos\juegodelamemoria\hud.c
+	"hud.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1770786243 source:d:\pendrive\programacion\proyectos topicos\juegodelamemoria\stats.c
+
+1770836726 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\stats.h
+	"config.h"
+
+1770843371 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\texto.h
+	"errores.h"
+	"config.h"
+	<stdint.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1770788186 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\hud.h
+	"errores.h"
+	<stdint.h>
+	<SDL2/SDL.h>
+
+1770952433 source:e:\pendrive\programacion\proyectos topicos\juegodelamemoria\config.c
+	"config.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1771029772 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\config.h
+	"errores.h"
+	"lib/TDAVector_Generico/TDAvectorGen.h"
+
+1770782992 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\errores.h
+
+1770785859 source:e:\pendrive\programacion\proyectos topicos\juegodelamemoria\errores.c
+	"errores.h"
+
+1770692521 source:e:\pendrive\programacion\proyectos topicos\juegodelamemoria\estado.c
+	"estado.h"
+
+1770957054 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\estado.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+
+1770245398 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245405 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"close_code.h"
+
+1770245399 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_wingdk.h"
+	"SDL_config_xbox.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_os2.h"
+	"SDL_config_emscripten.h"
+	"SDL_config_ngage.h"
+	"SDL_config_minimal.h"
+
+1770245404 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1770245408 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1770245408 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1770245400 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_windows.h
+	"SDL_platform.h"
+	<winsdkver.h>
+	<sdkddkver.h>
+
+1770245400 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1770245400 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_wingdk.h
+	"SDL_platform.h"
+
+1770245400 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_xbox.h
+	"SDL_platform.h"
+
+1770245399 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1770245399 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1770245399 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1770245400 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_os2.h
+	"SDL_platform.h"
+
+1770245399 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_emscripten.h
+	"SDL_platform.h"
+
+1770245399 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_ngage.h
+	"SDL_platform.h"
+
+1770245399 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1770245398 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1770245398 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1770245398 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245400 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<sys/byteorder.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1770245403 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245407 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1770245405 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245399 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245400 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245407 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245404 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245404 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245405 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245399 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1770245405 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1770245403 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245405 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245404 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1770245401 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245407 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245401 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245404 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245404 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245405 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245405 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245407 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245407 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245402 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245517 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2_mixer-2.8.1\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770245522 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2_ttf-2.24.0\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771033899 source:e:\pendrive\programacion\proyectos topicos\juegodelamemoria\gameplay.c
+	"gameplay.h"
+	<stdlib.h>
+	<time.h>
+	"juego.h"
+	"graficos.h"
+	"menu.h"
+
+1770959460 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\gameplay.h
+	"estado.h"
+
+1771029153 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\juego.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	"config.h"
+	"errores.h"
+	"estado.h"
+	"stats.h"
+	"texto.h"
+	"hud.h"
+	"estado.h"
+	"imagenes.h"
+	"button.h"
+	"carta.h"
+
+1770836726 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\stats.h
+	"config.h"
+
+1770843371 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\texto.h
+	"errores.h"
+	"config.h"
+	<stdint.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1770788186 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\hud.h
+	"errores.h"
+	<stdint.h>
+	<SDL2/SDL.h>
+
+1770769399 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\imagenes.h
+	<stdint.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1770245503 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\sdl2_image-2.8.8\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1770861963 source:e:\pendrive\programacion\proyectos topicos\juegodelamemoria\graficos.c
+	"graficos.h"
+	"stdio.h"
+	<stdlib.h>
+	"config.h"
+
+1770864436 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\graficos.h
+	<SDL2/SDL.h>
+	"config.h"
+
+1770788164 source:e:\pendrive\programacion\proyectos topicos\juegodelamemoria\hud.c
+	"hud.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1770795306 source:e:\pendrive\programacion\proyectos topicos\juegodelamemoria\imagenes.c
+	"imagenes.h"
+	<stdio.h>
+
+1770877853 source:e:\pendrive\programacion\proyectos topicos\juegodelamemoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"juego.h"
+	"errores.h"
+
+1770960328 source:e:\pendrive\programacion\proyectos topicos\juegodelamemoria\menu.c
+	"menu.h"
+	"juego.h"
+	"graficos.h"
+	"gameplay.h"
+	"button.h"
+
+1770957076 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\menu.h
+	"estado.h"
+
+1770786243 source:e:\pendrive\programacion\proyectos topicos\juegodelamemoria\stats.c
+
+1770862609 source:e:\pendrive\programacion\proyectos topicos\juegodelamemoria\texto.c
+	"texto.h"
+	<stdio.h>
+
+1770960280 source:e:\pendrive\programacion\proyectos topicos\juegodelamemoria\juego.c
+	"juego.h"
+	"imagenes.h"
+	"graficos.h"
+	"menu.h"
+	"gameplay.h"
+	"button.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1770871723 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\button.h
+	"errores.h"
+	"config.h"
+	<stdbool.h>
+	<stdint.h>
+	<SDL2/SDL.h>
+
+1770869257 source:d:\pendrive\programacion\proyectos topicos\juegodelamemoria\button.c
+	"button.h"
+	"graficos.h"
+
+1770956437 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\carta.h
+	"config.h"
+	<SDL2/SDL.h>
+
+1771108882 d:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\tdavector_generico\tdavectorgen.h
+	<stdbool.h>
+	<stddef.h>
+	"../../errores.h"
+
+1771180880 source:d:\pendrive\programacion\proyectos topicos\juegodelamemoria\carta.c
+	"carta.h"
+	"graficos.h"
+	"juego.h"
+	"gameplay.h"
+
+1770869257 source:e:\pendrive\programacion\proyectos topicos\juegodelamemoria\button.c
+	"button.h"
+	"graficos.h"
+
+1770871723 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\button.h
+	"errores.h"
+	"config.h"
+	<stdbool.h>
+	<stdint.h>
+	<SDL2/SDL.h>
+
+1770878206 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\lib\tdavector_generico\tdavectorgen.h
+	<stdbool.h>
+	<stddef.h>
+	"../../errores.h"
+
+1770956437 e:\pendrive\programacion\proyectos topicos\juegodelamemoria\carta.h
+	"config.h"
+	<SDL2/SDL.h>
+
+1771104055 source:e:\pendrive\programacion\proyectos topicos\juegodelamemoria\carta.c
+	"carta.h"
+	"graficos.h"
+	"juego.h"
+	"gameplay.h"
+
+1771379935 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\button.c
+	"button.h"
+	"graficos.h"
+
+1771379907 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\button.h
+	"errores.h"
+	"config.h"
+	<stdbool.h>
+	<stdint.h>
+	<SDL2/SDL.h>
+
+1771343877 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\errores.h
+
+1771374115 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\config.h
+	"errores.h"
+	"lib/TDAVector_Generico/TDAvectorGen.h"
+
+1771343884 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\tdavector_generico\tdavectorgen.h
+	<stdbool.h>
+	<stddef.h>
+	"../../errores.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_wingdk.h"
+	"SDL_config_xbox.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_os2.h"
+	"SDL_config_emscripten.h"
+	"SDL_config_ngage.h"
+	"SDL_config_minimal.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_windows.h
+	"SDL_platform.h"
+	<winsdkver.h>
+	<sdkddkver.h>
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_wingdk.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_xbox.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_os2.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_emscripten.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_ngage.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<sys/byteorder.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771375723 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\graficos.h
+	<SDL2/SDL.h>
+	"config.h"
+
+1771373865 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\carta.c
+	"carta.h"
+	"graficos.h"
+	"juego.h"
+	"gameplay.h"
+
+1771343877 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\carta.h
+	"config.h"
+	<SDL2/SDL.h>
+
+1771382527 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\juego.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	"config.h"
+	"errores.h"
+	"estado.h"
+	"texto.h"
+	"hud.h"
+	"imagenes.h"
+	"button.h"
+	"carta.h"
+	"opciones.h"
+	"jugador.h"
+	"inputTxt.h"
+	"sonidos.h"
+
+1771343883 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2_mixer-2.8.1\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343884 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2_ttf-2.24.0\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343877 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\estado.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+
+1771343877 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\stats.h
+	"config.h"
+
+1771379435 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\texto.h
+	"errores.h"
+	"config.h"
+	<stdint.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1771357813 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\hud.h
+	"errores.h"
+	<stdint.h>
+	<SDL2/SDL.h>
+
+1771343877 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\imagenes.h
+	<stdint.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1771343883 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\lib\sdl2_image-2.8.8\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343877 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\gameplay.h
+	"estado.h"
+
+1771374079 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\config.c
+	"config.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1771343877 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\errores.c
+	"errores.h"
+
+1771343877 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\estado.c
+	"estado.h"
+
+1771382474 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\gameplay.c
+	"gameplay.h"
+	<stdlib.h>
+	<time.h>
+	"juego.h"
+	"graficos.h"
+	"menu.h"
+
+1771348977 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\menu.h
+	"estado.h"
+
+1771343877 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\graficos.c
+	"graficos.h"
+	"stdio.h"
+	<stdlib.h>
+	"config.h"
+
+1771357761 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\hud.c
+	"hud.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1771343877 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\imagenes.c
+	"imagenes.h"
+	<stdio.h>
+
+1771382620 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\juego.c
+	"juego.h"
+	"imagenes.h"
+	"graficos.h"
+	"menu.h"
+	"gameplay.h"
+	"button.h"
+	"opciones.h"
+	"inputTxt.h"
+	"jugador.h"
+	"cargar_recursos.h"
+	"sonidos.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1771383004 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"juego.h"
+	"errores.h"
+
+1771380828 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\menu.c
+	"menu.h"
+	"juego.h"
+	"graficos.h"
+	"gameplay.h"
+	"button.h"
+
+1771343877 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\stats.c
+
+1771380974 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\texto.c
+	"texto.h"
+	<stdio.h>
+
+1771348977 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\opciones.h
+	"estado.h"
+
+1771367865 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\jugador.h
+	"config.h"
+	<stdint.h>
+
+1771353644 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\inputtxt.h
+	"config.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"button.h"
+
+1771356893 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\inputtxt.c
+	"inputTxt.h"
+	"button.h"
+	"graficos.h"
+	"string.h"
+	"juego.h"
+
+1771378386 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\jugador.c
+	"jugador.h"
+	<string.h>
+
+1771380949 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\opciones.c
+	"opciones.h"
+	<stdlib.h>
+	<time.h>
+	"juego.h"
+	"graficos.h"
+	"menu.h"
+
+1771382558 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\cargar_recursos.c
+	"cargar_recursos.h"
+	"juego.h"
+	"config.h"
+	"graficos.h"
+	"hud.h"
+
+1771371850 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\cargar_recursos.h
+	"errores.h"
+
+1771372347 c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\sonidos.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+
+1771378730 source:c:\users\elian\onedrive\escritorio\codeblocks\juegodelamemoria\sonidos.c
+	"sonidos.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1772829174 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\button.c
+	"button.h"
+	"graficos.h"
+
+1773528582 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\button.h
+	"errores.h"
+	"config.h"
+	<stdbool.h>
+	<stdint.h>
+	<SDL2/SDL.h>
+
+1772826609 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\errores.h
+
+1773528508 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\config.h
+	"errores.h"
+	"TDAvectorGen.h"
+
+1772750728 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\tdavectorgen.h
+	<stdbool.h>
+	<stddef.h>
+	"errores.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_wingdk.h"
+	"SDL_config_xbox.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_os2.h"
+	"SDL_config_emscripten.h"
+	"SDL_config_ngage.h"
+	"SDL_config_minimal.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_windows.h
+	"SDL_platform.h"
+	<winsdkver.h>
+	<sdkddkver.h>
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_wingdk.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_xbox.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_os2.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_emscripten.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_ngage.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<sys/byteorder.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1772778686 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\graficos.h
+	<SDL2/SDL.h>
+	"config.h"
+
+1773528508 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\cargar_recursos.c
+	"cargar_recursos.h"
+	"juego.h"
+	"config.h"
+	"graficos.h"
+	"hud.h"
+
+1772826017 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\cargar_recursos.h
+	"errores.h"
+
+1773528508 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\juego.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	"config.h"
+	"errores.h"
+	"estado.h"
+	"texto.h"
+	"hud.h"
+	"imagenes.h"
+	"button.h"
+	"carta.h"
+	"opciones.h"
+	"jugador.h"
+	"inputTxt.h"
+	"sonidos.h"
+	"gameplay.h"
+	"menu.h"
+
+1771343883 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2_mixer-2.8.1\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343884 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2_ttf-2.24.0\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1772826150 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\estado.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+
+1772778750 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\texto.h
+	"errores.h"
+	"config.h"
+	<stdint.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1772733559 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\hud.h
+	"errores.h"
+	<stdint.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+
+1772388689 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\imagenes.h
+	<stdint.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1771343883 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2_image-2.8.8\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1773530030 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\carta.h
+	"config.h"
+	<SDL2/SDL.h>
+
+1773528508 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\opciones.h
+	"estado.h"
+	"errores.h"
+
+1771367865 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\jugador.h
+	"config.h"
+	<stdint.h>
+
+1771353644 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\inputtxt.h
+	"config.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"button.h"
+
+1772388621 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\sonidos.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+
+1772750728 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\carta.c
+	"carta.h"
+	"graficos.h"
+	"juego.h"
+	"gameplay.h"
+
+1772750728 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\gameplay.h
+	"estado.h"
+	"errores.h"
+
+1776465239 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\config.c
+	"config.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1772826671 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\errores.c
+	"errores.h"
+
+1778545216 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\gameplay.c
+	"gameplay.h"
+	<stdlib.h>
+	<time.h>
+	"juego.h"
+	"graficos.h"
+	"menu.h"
+
+1772762256 c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\menu.h
+	"estado.h"
+	"errores.h"
+
+1772387615 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\graficos.c
+	"graficos.h"
+	"stdio.h"
+	<stdlib.h>
+	"config.h"
+
+1774054400 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\hud.c
+	"hud.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1771343877 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\imagenes.c
+	"imagenes.h"
+	<stdio.h>
+
+1772778780 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\inputtxt.c
+	"inputTxt.h"
+	"button.h"
+	"graficos.h"
+	"string.h"
+	"juego.h"
+
+1778545035 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\juego.c
+	"juego.h"
+	"imagenes.h"
+	"graficos.h"
+	"menu.h"
+	"gameplay.h"
+	"button.h"
+	"opciones.h"
+	"inputTxt.h"
+	"jugador.h"
+	"cargar_recursos.h"
+	"sonidos.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1771378386 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\jugador.c
+	"jugador.h"
+	<string.h>
+
+1772829596 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"juego.h"
+	"errores.h"
+
+1772817482 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\menu.c
+	"menu.h"
+	"juego.h"
+	"graficos.h"
+	"gameplay.h"
+	"button.h"
+
+1773528508 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\opciones.c
+	"opciones.h"
+	<stdlib.h>
+	<time.h>
+	"juego.h"
+	"graficos.h"
+	"menu.h"
+	"errores.h"
+
+1771378730 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\sonidos.c
+	"sonidos.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1772750728 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\tdavectorgen.c
+	"TDAvectorGen.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+
+1771380974 source:c:\users\elian\onedrive\escritorio\codeblocks\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\texto.c
+	"texto.h"
+	<stdio.h>
+
+1772829174 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\button.c
+	"button.h"
+	"graficos.h"
+
+1773528582 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\button.h
+	"errores.h"
+	"config.h"
+	<stdbool.h>
+	<stdint.h>
+	<SDL2/SDL.h>
+
+1772826609 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\errores.h
+
+1773528508 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\config.h
+	"errores.h"
+	"TDAvectorGen.h"
+
+1772750728 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\tdavectorgen.h
+	<stdbool.h>
+	<stddef.h>
+	"errores.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_wingdk.h"
+	"SDL_config_xbox.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_os2.h"
+	"SDL_config_emscripten.h"
+	"SDL_config_ngage.h"
+	"SDL_config_minimal.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_windows.h
+	"SDL_platform.h"
+	<winsdkver.h>
+	<sdkddkver.h>
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_wingdk.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_xbox.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_os2.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_emscripten.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_ngage.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<sys/byteorder.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343881 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343882 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2-2.32.8\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1772778686 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\graficos.h
+	<SDL2/SDL.h>
+	"config.h"
+
+1773528508 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\cargar_recursos.c
+	"cargar_recursos.h"
+	"juego.h"
+	"config.h"
+	"graficos.h"
+	"hud.h"
+
+1772826017 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\cargar_recursos.h
+	"errores.h"
+
+1773528508 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\juego.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	"config.h"
+	"errores.h"
+	"estado.h"
+	"texto.h"
+	"hud.h"
+	"imagenes.h"
+	"button.h"
+	"carta.h"
+	"opciones.h"
+	"jugador.h"
+	"inputTxt.h"
+	"sonidos.h"
+	"gameplay.h"
+	"menu.h"
+
+1771343883 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2_mixer-2.8.1\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1771343884 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2_ttf-2.24.0\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1772826150 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\estado.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+
+1772778750 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\texto.h
+	"errores.h"
+	"config.h"
+	<stdint.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1772733559 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\hud.h
+	"errores.h"
+	<stdint.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+
+1772388689 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\imagenes.h
+	<stdint.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1771343883 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\lib\sdl2_image-2.8.8\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1773530030 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\carta.h
+	"config.h"
+	<SDL2/SDL.h>
+
+1773528508 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\opciones.h
+	"estado.h"
+	"errores.h"
+
+1771367865 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\jugador.h
+	"config.h"
+	<stdint.h>
+
+1771353644 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\inputtxt.h
+	"config.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"button.h"
+
+1772388621 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\sonidos.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+
+1772750728 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\gameplay.h
+	"estado.h"
+	"errores.h"
+
+1772762256 c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\menu.h
+	"estado.h"
+	"errores.h"
+
+1772750728 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\carta.c
+	"carta.h"
+	"graficos.h"
+	"juego.h"
+	"gameplay.h"
+
+1776465239 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\config.c
+	"config.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1772826671 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\errores.c
+	"errores.h"
+
+1778545216 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\gameplay.c
+	"gameplay.h"
+	<stdlib.h>
+	<time.h>
+	"juego.h"
+	"graficos.h"
+	"menu.h"
+
+1772387615 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\graficos.c
+	"graficos.h"
+	"stdio.h"
+	<stdlib.h>
+	"config.h"
+
+1774054400 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\hud.c
+	"hud.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1771343877 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\imagenes.c
+	"imagenes.h"
+	<stdio.h>
+
+1772778780 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\inputtxt.c
+	"inputTxt.h"
+	"button.h"
+	"graficos.h"
+	"string.h"
+	"juego.h"
+
+1778545035 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\juego.c
+	"juego.h"
+	"imagenes.h"
+	"graficos.h"
+	"menu.h"
+	"gameplay.h"
+	"button.h"
+	"opciones.h"
+	"inputTxt.h"
+	"jugador.h"
+	"cargar_recursos.h"
+	"sonidos.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1771378386 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\jugador.c
+	"jugador.h"
+	<string.h>
+
+1772829596 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"juego.h"
+	"errores.h"
+
+1772817482 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\menu.c
+	"menu.h"
+	"juego.h"
+	"graficos.h"
+	"gameplay.h"
+	"button.h"
+
+1773528508 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\opciones.c
+	"opciones.h"
+	<stdlib.h>
+	<time.h>
+	"juego.h"
+	"graficos.h"
+	"menu.h"
+	"errores.h"
+
+1771378730 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\sonidos.c
+	"sonidos.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1772750728 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\tdavectorgen.c
+	"TDAvectorGen.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+
+1771380974 source:c:\users\elian\onedrive\escritorio\programacion\proyectos\proyectos topicos ver_2026\trabajo practico verano 2026\juegodelamemoria\texto.c
+	"texto.h"
+	<stdio.h>
+

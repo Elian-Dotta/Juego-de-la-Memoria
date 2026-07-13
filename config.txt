@@ -1,0 +1,11 @@
+Grilla = 
+####--
+#--#--
+#--#--
+####--
+------
+------
+Set de cartas = 1
+Cantidad de jugadores = 1
+Jugador 1 = P1
+Jugador 2 = 
