@@ -11,11 +11,6 @@ The project focuses on modular software design, SDL2 integration, event-driven p
   <img src="img/git/GameGif.gif" alt="Gameplay Demo" width="850">
 </p>
 
-<p align="center">
-A classic Memory Game developed in <b>C</b> using <b>SDL2</b>.<br>
-Originally developed in <b>February 2026</b> as part of the Advanced Programming course at UNLaM.
-</p>
-
 ---
 
 ## Screenshots
